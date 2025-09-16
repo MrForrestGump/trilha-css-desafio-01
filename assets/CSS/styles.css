@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: 0;
+}
+
+body{
+    background-color: #000;
+}
+
+.banner{
+    height: 605px;
+    color: rgb(255, 255, 255);
+    background-image:linear-gradient(rgba(0,0,0,0.6), rgba(49,168, 221, .2), rgba(0,0,0,0.6)), url('../images/banner.png');
+
+}
